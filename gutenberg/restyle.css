@@ -1,0 +1,36 @@
+body {
+  background-image: url("images/paper.jpg");
+}
+
+p {
+  color: #444b69;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-family: "fantasy", sans-serif;
+
+}
+
+h1, h2 , h3, h4, h5, h6 {
+  color: #5F9EA0;
+  font-size: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-family: "Times New Roman", sans-serif;
+}
+
+h1{
+  color: #006400;
+  font-size: 40px;
+}
+
+img {
+  text-align: center;
+  border-radius: 10px;
+  display: block;
+}
+
+.toc {
+  margin-left: 5%;
+  font-family: "Times New Roman", sans-serif;
+}
