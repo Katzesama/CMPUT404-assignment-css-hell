@@ -26,7 +26,7 @@ Modifications on Part1
 
 * Background removed from 1.html, 2.html
 * Background image added
-* Headers color and font family changed
+* Headers color, font family and size changed
 * Image border becomed rounder
 * Paragrah color and font family changed
 * Text is centered
