@@ -30,3 +30,9 @@ Modifications on Part1
 * Image border becomed rounder
 * Paragrah color and font family changed
 * Text is centered
+
+References
+=================
+
+Sidebar
+https://www.w3schools.com/w3css/w3css_sidebar.asp
