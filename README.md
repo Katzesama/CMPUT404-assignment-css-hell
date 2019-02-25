@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Modifications on Part1
+=================
 
+* Background removed from 1.html, 2.html
+* Background image added
+* Headers color and font family changed
+* Image border becomed rounder
+* Paragrah color and font family changed
+* Text is centered
