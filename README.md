@@ -34,5 +34,5 @@ Modifications on Part1
 References
 =================
 
-Sidebar
+Sidebar   
 https://www.w3schools.com/w3css/w3css_sidebar.asp
